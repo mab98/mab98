@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 I’m Muhammad Abubakar @mhmdabubakar98,
+- 👋 I’m Muhammad Abubakar,
 - 👀 I’m interested in Frontend Engineering,
 - 🌱 I’m currently learning Reactjs with TypeScript,
 - 🤔 I’m looking for help with Treeshaking a ReactTS project,
